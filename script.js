@@ -63,7 +63,7 @@ const calculate = () => {
             result = parseFloat(prevNum) / parseFloat(currNum)
             break
         case "%":
-            result = parseFloat(prevNum) / parseFloat(currNum)
+            result = parseFloat(prevNum) / 100
             break
         default:
             break
