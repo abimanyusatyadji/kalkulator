@@ -154,6 +154,7 @@ table {
     color: white;
     font-size: 36px;
     padding: 0 20px;
+    border: 1px solid black;
 }
 
 .keys {
